@@ -1,2 +1,0 @@
-"# copter" 
-"# copter" 
